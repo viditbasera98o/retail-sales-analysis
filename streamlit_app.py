@@ -446,7 +446,7 @@ with st.expander("🔎 Explore Raw Data"):
 st.markdown("---")
 st.markdown(
     "<div style='text-align:center;color:#9CA3AF;font-size:0.85rem;'>"
-    "Built by [Your Name] | Business Analyst Portfolio | Python + Streamlit + Plotly"
+    "Built by [Vidit Basera] | Business Analyst Portfolio | Python + Streamlit + Plotly"
     "</div>",
     unsafe_allow_html=True
 )
